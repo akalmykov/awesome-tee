@@ -15,6 +15,11 @@ A curated list of resources about Trusted Execution Environments (Intel SGX, AMD
 ### SGX and Rust
 - [Secure computation in Rust: Using Intel's SGX instructions with Teaclave and Fortanix](https://blog.lambdaclass.com/secure-computation-in-rust-using-intels-sgx-instructions-with-teaclave-and-fortanix/)
 
-
 ### SGX Cloud providers
 - [Alibaba Cloud](https://www.alibabacloud.com/help/en/ecs/user-guide/build-an-sgx-encrypted-computing-environment)
+
+### SGX and Blockchains
+- [DCAP v3 on-chain remote attestation](https://github.com/automata-network/automata-dcap-v3-attestation)
+- [EPID on-chain remote attestation](https://github.com/PufferFinance/rave/) (EPID is depricated)
+
+
