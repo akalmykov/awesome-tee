@@ -6,8 +6,11 @@ A curated list of resources about Trusted Execution Environments (Intel SGX, AMD
 - [Linux Installation Instructions & Guides](https://download.01.org/intel-sgx/latest/linux-latest/docs)
    - [Solving Ubuntu apt-get NO_PUBKEY problem](https://github.com/akalmykov/awesome-tee/blob/main/intel-sgx-apt-repo-ubuntu.md)
 - [SGX101](https://sgx101.gitbook.io/sgx101/)
-- [SampleEnclave](https://github.com/intel/linux-sgx/tree/master/SampleCode/SampleEnclave) - the project demonstrates several fundamental usages of Intel(R) Software Guard 
+- [SampleEnclave](https://github.com/intel/linux-sgx/tree/master/SampleCode/SampleEnclave) - the project demonstrates several fundamental usages of Intel(R) Software Guard
 - [How to Run Intel® Software Guard Extensions' Simulation Mode](https://www.intel.com/content/www/us/en/developer/articles/training/usage-of-simulation-mode-in-sgx-enhanced-application.html)
+
+### Utils
+- [SGX-hadware test](https://github.com/ayeks/SGX-hardware)
 
 ### SDKs based on SGX
 - [Fortanix](https://www.fortanix.com/intel-sgx)
@@ -19,6 +22,7 @@ A curated list of resources about Trusted Execution Environments (Intel SGX, AMD
 
 ### SGX Cloud providers
 - [Alpha3Cloud](https://alpha3cloud.com/public-cloud/compute/intel-sgx/)
+   - [SGX hardware test results](https://github.com/akalmykov/awesome-tee/blob/main/sgx-hardware-Alpha3Cloud.md)
 - [Alibaba Cloud](https://www.alibabacloud.com/help/en/ecs/user-guide/build-an-sgx-encrypted-computing-environment)
 - [IBM](https://cloud.ibm.com/docs/bare-metal?topic=bare-metal-bm-server-provision-sgx)
  
