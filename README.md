@@ -21,7 +21,7 @@ A curated list of resources about Trusted Execution Environments (Intel SGX, AMD
 - [Gramine](https://gramineproject.io/)
 
 ### SGX and Rust
-- [Secure computation in Rust: Using Intel's SGX instructions with Teaclave and Fortanix](https://blog.lambdaclass.com/secure-computation-in-rust-using-intels-sgx-instructions-with-teaclave-and-fortanix/)
+- [Secure computation in Rust: Using Intel's SGX instructions with Teaclave and Fortanix](https://blog.lambdaclass.com/secure-computation-in-rust-using-intels-sgx-instructions-with-teaclave-and-fortanix)
 
 ### SGX Cloud providers
 - [Alpha3Cloud](https://alpha3cloud.com/public-cloud/compute/intel-sgx/)
