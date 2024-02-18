@@ -12,6 +12,9 @@ A curated list of resources about Trusted Execution Environments (Intel SGX, AMD
 ### Utils
 - [SGX-hadware test](https://github.com/ayeks/SGX-hardware)
 
+### SGX Libraries
+- [Intel® Software Guard Extensions SSL]([https://github.com/cloud-security-research/sgx-ra-tls](https://github.com/intel/intel-sgx-ssl))
+
 ### SDKs based on SGX
 - [Fortanix](https://www.fortanix.com/intel-sgx)
 - [Teaclave](https://teaclave.apache.org/)
