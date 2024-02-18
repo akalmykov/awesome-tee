@@ -4,6 +4,7 @@ A curated list of resources about Trusted Execution Environments (Intel SGX, AMD
 ## Intel SGX
 ### Tutorials & Samples
 - [Linux Installation Instructions & Guides](https://download.01.org/intel-sgx/latest/linux-latest/docs)
+   - [Solving Ubuntu apt-get NO_PUBKEY problem](https://github.com/akalmykov/awesome-tee/blob/main/intel-sgx-apt-repo-ubuntu.md)
 - [SGX101](https://sgx101.gitbook.io/sgx101/)
 - [SampleEnclave](https://github.com/intel/linux-sgx/tree/master/SampleCode/SampleEnclave) - the project demonstrates several fundamental usages of Intel(R) Software Guard 
 - [How to Run Intel® Software Guard Extensions' Simulation Mode](https://www.intel.com/content/www/us/en/developer/articles/training/usage-of-simulation-mode-in-sgx-enhanced-application.html)
