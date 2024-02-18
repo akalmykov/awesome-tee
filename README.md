@@ -23,6 +23,7 @@ A curated list of resources about Trusted Execution Environments (Intel SGX, AMD
 ### SGX Cloud providers
 - [Alpha3Cloud](https://alpha3cloud.com/public-cloud/compute/intel-sgx/)
    - [SGX hardware test results](https://github.com/akalmykov/awesome-tee/blob/main/sgx-hardware-Alpha3Cloud.md)
+- [OVHCloud](https://www.ovhcloud.com/en/bare-metal/uc-confidential-computing/)
 - [Alibaba Cloud](https://www.alibabacloud.com/help/en/ecs/user-guide/build-an-sgx-encrypted-computing-environment)
 - [IBM](https://cloud.ibm.com/docs/bare-metal?topic=bare-metal-bm-server-provision-sgx)
  
