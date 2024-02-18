@@ -17,6 +17,7 @@ A curated list of resources about Trusted Execution Environments (Intel SGX, AMD
 
 ### SDKs based on SGX
 - [Fortanix](https://www.fortanix.com/intel-sgx)
+   - [Rust EDP](https://edp.fortanix.com/docs/)
 - [Teaclave](https://teaclave.apache.org/)
 - [Gramine](https://gramineproject.io/)
 
