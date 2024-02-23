@@ -40,7 +40,7 @@ A curated list of resources about Trusted Execution Environments (Intel SGX, AMD
 - [Alibaba Cloud](https://www.alibabacloud.com/help/en/ecs/user-guide/build-an-sgx-encrypted-computing-environment)
 - [IBM](https://cloud.ibm.com/docs/bare-metal?topic=bare-metal-bm-server-provision-sgx)
 - [Vultr](https://zenlot.medium.com/intel-sgx-development-on-vultr-30cdfd5c9754)
-- 
+  
 ### SGX and Web
 - [SGX-ready NGINX open source server](https://github.com/enclaive/enclaive-docker-nginx-sgx)
  
