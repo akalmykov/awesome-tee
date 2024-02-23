@@ -20,6 +20,10 @@ A curated list of resources about Trusted Execution Environments (Intel SGX, AMD
    - [Rust EDP](https://edp.fortanix.com/docs/)
 - [Teaclave](https://teaclave.apache.org/)
 - [Gramine](https://gramineproject.io/)
+- [MesaTEE](https://anquan.baidu.com/product/mesatee)
+- [Edgeless Systems EGo](https://www.edgeless.systems/products/ego/)
+- [Edgeless RT](https://github.com/edgelesssys/edgelessrt
+- [Enarx](https://enarx.dev/)
 
 ### SGX and Rust
 - [Secure computation in Rust: Using Intel's SGX instructions with Teaclave and Fortanix](https://blog.lambdaclass.com/secure-computation-in-rust-using-intels-sgx-instructions-with-teaclave-and-fortanix)
