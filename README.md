@@ -22,7 +22,7 @@ A curated list of resources about Trusted Execution Environments (Intel SGX, AMD
 - [Gramine](https://gramineproject.io/)
 - [MesaTEE](https://anquan.baidu.com/product/mesatee)
 - [Edgeless Systems EGo](https://www.edgeless.systems/products/ego/)
-- [Edgeless RT](https://github.com/edgelesssys/edgelessrt
+- [Edgeless RT](https://github.com/edgelesssys/edgelessrt)
 - [Enarx](https://enarx.dev/)
 
 ### SGX and Rust
