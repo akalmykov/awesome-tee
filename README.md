@@ -34,6 +34,9 @@ A curated list of resources about Trusted Execution Environments (Intel SGX, AMD
 - [OVHCloud](https://www.ovhcloud.com/en/bare-metal/uc-confidential-computing/)
 - [Alibaba Cloud](https://www.alibabacloud.com/help/en/ecs/user-guide/build-an-sgx-encrypted-computing-environment)
 - [IBM](https://cloud.ibm.com/docs/bare-metal?topic=bare-metal-bm-server-provision-sgx)
+
+### SGX and Web
+- [SGX-ready NGINX open source server](https://github.com/enclaive/enclaive-docker-nginx-sgx)
  
 ### SGX and Blockchains
 - [Demystifying remote attestation by taking it on-chain](https://collective.flashbots.net/t/demystifying-remote-attestation-by-taking-it-on-chain/2629)
