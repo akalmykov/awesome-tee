@@ -8,22 +8,27 @@ A curated list of resources about Trusted Execution Environments (Intel SGX, AMD
 - [SGX101](https://sgx101.gitbook.io/sgx101/)
 - [SampleEnclave](https://github.com/intel/linux-sgx/tree/master/SampleCode/SampleEnclave) - the project demonstrates several fundamental usages of Intel(R) Software Guard (+simulation mode on Linux)
 - [How to Run Intel® Software Guard Extensions' Simulation Mode](https://www.intel.com/content/www/us/en/developer/articles/training/usage-of-simulation-mode-in-sgx-enhanced-application.html)
-
+- [Code Sample: Intel® Software Guard Extensions Remote Attestation End-to-End Example](https://www.intel.com/content/www/us/en/developer/articles/code-sample/software-guard-extensions-remote-attestation-end-to-end-example.html)
 ### Utils
 - [SGX-hadware test](https://github.com/ayeks/SGX-hardware)
 
 ### SGX Libraries
 - [Intel® Software Guard Extensions SSL](https://github.com/intel/intel-sgx-ssl)
 
-### SDKs based on SGX
+### SDKs and LibOS based on SGX
 - [Fortanix](https://www.fortanix.com/intel-sgx)
    - [Rust EDP](https://edp.fortanix.com/docs/)
 - [Teaclave](https://teaclave.apache.org/)
 - [Gramine](https://gramineproject.io/)
+- [Scone](https://scontain.com/index.html?lang=en)
 - [MesaTEE](https://anquan.baidu.com/product/mesatee)
+- [MesaPy](https://github.com/mesalock-linux/mesapy)
 - [Edgeless Systems EGo](https://www.edgeless.systems/products/ego/)
 - [Edgeless RT](https://github.com/edgelesssys/edgelessrt)
 - [Enarx](https://enarx.dev/)
+- [Occlum](https://github.com/occlum/occlum)
+- [Mystikos](https://github.com/deislabs/mystikos)
+- [SGX-LKL-OE (Open Enclave Edition)](https://github.com/lsds/sgx-lkl)
 
 ### SGX and Rust
 - [Secure computation in Rust: Using Intel's SGX instructions with Teaclave and Fortanix](https://blog.lambdaclass.com/secure-computation-in-rust-using-intels-sgx-instructions-with-teaclave-and-fortanix)
@@ -34,7 +39,8 @@ A curated list of resources about Trusted Execution Environments (Intel SGX, AMD
 - [OVHCloud](https://www.ovhcloud.com/en/bare-metal/uc-confidential-computing/)
 - [Alibaba Cloud](https://www.alibabacloud.com/help/en/ecs/user-guide/build-an-sgx-encrypted-computing-environment)
 - [IBM](https://cloud.ibm.com/docs/bare-metal?topic=bare-metal-bm-server-provision-sgx)
-
+- [Vultr](https://zenlot.medium.com/intel-sgx-development-on-vultr-30cdfd5c9754)
+- 
 ### SGX and Web
 - [SGX-ready NGINX open source server](https://github.com/enclaive/enclaive-docker-nginx-sgx)
  
