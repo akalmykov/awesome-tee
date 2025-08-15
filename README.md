@@ -49,5 +49,12 @@ A curated list of resources about Trusted Execution Environments (Intel SGX, AMD
 - [DCAP v3 on-chain remote attestation](https://github.com/automata-network/automata-dcap-v3-attestation)
 - [EPID on-chain remote attestation](https://github.com/PufferFinance/rave/) (EPID is depricated)
 
+## Intel TDX
+### SDKs and Frameworks
+- [dstack](https://github.com/Dstack-TEE/dstack)
+
+### TDX Cloud providers
+- [Phala Cloud](https://cloud.phala.network/)
+
 
 
