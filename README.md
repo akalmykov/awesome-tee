@@ -56,5 +56,6 @@ A curated list of resources about Trusted Execution Environments (Intel SGX, AMD
 ### TDX Cloud providers
 - [Phala Cloud](https://cloud.phala.network/)
 
+## Confidential AI
 
-
+- [Confidential Inference Directory](https://confidentialinference.net) - Compare TEE-based AI inference providers by models, pricing, and live attestation evidence.
